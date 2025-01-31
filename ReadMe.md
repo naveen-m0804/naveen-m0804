@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Hey there! I'm Naveen M  <br><br>🚀 About Me  <br><br>🎓 Computer Science & Engineering (Internet Of Things) Student at Saveetha Engineering College  <br>💡 Passionate about IoT, Full Stack Development, AI/ML, Software Development.<br>🔭 Currently working on Online Quiz using Django, IoT for Road Safety. <br><br>🤝 I’m looking to collaborate on  <br>  IoT-based innovations  <br>  AI/ML projects  <br>  Full Stack web & mobile apps  <br>  Cybersecurity & ethical hacking  <br><br>🌱 I’m currently learning  <br>  Advanced IoT protocols & applications  <br>  Cloud computing & edge AI  <br>  System design & scalable architectures  <br><br>⚡ Fun fact  <br>  I turn coffee ☕ into code!  <br>  I love solving complex problems with creative solutions  <br>  Always up for hackathons & brainstorming ideas!  <br>
 
 
